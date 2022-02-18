@@ -177,7 +177,7 @@ ul,li,p,a {
     margin-left: auto;
     max-width: 100%;
     margin-right: auto;
-    padding: 64px 0px;
+    padding: 64px 0px 118px;
     padding-left: 16px;
     padding-right: 16px;
 }
@@ -315,6 +315,9 @@ ul,li,p,a {
 }
 #content .contact-info i[class*="fas"] {
     width:40px;
+}
+.contact-info a {
+    color: #000;
 }
 #content .contact-form {
     font-size:15px;
